@@ -4,7 +4,7 @@ vim.opt.scrolloff = 8
 
 vim.g.mapleader = " "
 
-vim.cmd("set number")
+vim.cmd("set number relativenumber")
 
 vim.keymap.set("n","<leader>pv", ":Ex<CR>")
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
