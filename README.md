@@ -11,7 +11,7 @@ This Neovim setup is finely tuned to turbocharge your coding experience, packed 
 - **Floating Terminal:** Keep your workflow seamless by accessing a floating terminal directly within Neovim, allowing you to execute commands and run scripts without interrupting your coding flow.
 
 ## 💡 Installation:
-1. Clone this repo2. 
+1. Clone this repo.
 
 ```bash
 git clone https://github.com/a-Nandhu/nvim-config.git ~/.config/nvim
